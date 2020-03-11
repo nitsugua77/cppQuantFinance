@@ -3,3 +3,5 @@
 *.vcxproj
 *.vcxproj.filters
 *.vcxproj.user
+./repos/CppQuantFinance/Debug
+./repos/CppQuantFinance/x64
