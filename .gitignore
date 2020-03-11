@@ -1,0 +1,5 @@
+./repos/CppQuantFinance/.vs
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
