@@ -5,7 +5,8 @@
 
 int main()
 {
-    std::cout << "QuantFinance!\n";
+    std::cout << "Quant Finance!\n";
+    std::cout << "Test!\n";
 }
 
 // Exécuter le programme : Ctrl+F5 ou menu Déboguer > Exécuter sans débogage
